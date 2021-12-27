@@ -1,0 +1,8 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: grey;
+}
+.uk-card {
+    border-radius: 20px;
+    background-color: lightgray;
+}
